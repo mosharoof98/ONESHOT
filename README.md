@@ -78,7 +78,7 @@ Please note that root access is required.
 
 #### Using installer
  ```
- curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash
+ curl -sSf https://github.com/mosharoof98/ONESHOT/installer.sh | bash
  ```
 #### Manually
 **Installing requirements**
@@ -88,7 +88,7 @@ Please note that root access is required.
  ```
 **Getting OneShot**
  ```
- git clone --depth 1 https://github.com/drygdryg/OneShot OneShot
+ git clone --depth 1 https://github.com/mosharoof98/ONESHOT OneShot
  ```
 #### Running
  ```
